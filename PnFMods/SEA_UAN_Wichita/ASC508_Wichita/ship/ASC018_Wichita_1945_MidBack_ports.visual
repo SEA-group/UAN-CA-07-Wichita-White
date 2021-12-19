@@ -286,6 +286,42 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	MP_AM025_Pelorus_Mk7	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.0878 0.8722 -1.7879 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM025_Pelorus_Mk7_INDEX_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0878 0.8722 -1.7879 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM049_Signal_Lamp_1	</identifier>
+				<transform>
+					<row0>	0.8000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.8000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.8000 0.0000	</row2>
+					<row3>	0.2234 1.8246 -1.9155 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM049_Signal_Lamp_1_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.7997 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.7997 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.7997 0.0000	</row2>
+					<row3>	-0.2234 1.8246 -1.9155 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MP_AM062_IFF_Antenna	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
@@ -322,6 +358,24 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	MP_AM132_Flag_Box	</identifier>
+				<transform>
+					<row0>	-0.9184 0.0000 0.3956 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.3956 0.0000 -0.9184 0.0000	</row2>
+					<row3>	0.0831 0.9072 -1.6831 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM132_Flag_Box_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.9184 0.0000 -0.3956 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.3956 0.0000 -0.9184 0.0000	</row2>
+					<row3>	-0.0831 0.9072 -1.6831 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MP_AM200_Screened_speed_light	</identifier>
 				<transform>
 					<row0>	0.9264 0.0000 0.0000 0.0000	</row0>
@@ -349,48 +403,21 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATC2651	</identifier>
+				<identifier>	MP_AM580_Signal_Lamp	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.8722 -1.7879 1.0000	</row3>
+					<row0>	0.4378 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.4378 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.4378 0.0000	</row2>
+					<row3>	-0.0610 2.0164 -1.9289 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATC2655	</identifier>
+				<identifier>	MP_AM580_Signal_Lamp_INDEX_1	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 1.8246 -1.9155 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC2657	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.6924 -2.3554 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC2663	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	-0.0599 0.7506 -2.1152 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATC2666	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 2.0164 -1.9289 1.0000	</row3>
+					<row0>	0.4378 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.4378 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.4378 0.0000	</row2>
+					<row3>	0.0610 2.0164 -1.9289 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -409,6 +436,15 @@
 					<row1>	0.0000 0.8664 -0.0317 0.0000	</row1>
 					<row2>	-0.0603 0.0316 0.8643 0.0000	</row2>
 					<row3>	0.4756 -0.3391 -4.1146 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM126_Cleat	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 -0.0850 -0.9964 0.0000	</row1>
+					<row2>	0.0000 0.9964 -0.0850 0.0000	</row2>
+					<row3>	0.0000 0.9837 -1.8554 1.0000	</row3>
 				</transform>
 			</node>
 		</node>

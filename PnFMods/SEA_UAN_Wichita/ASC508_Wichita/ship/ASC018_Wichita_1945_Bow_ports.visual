@@ -79,30 +79,75 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATC2641	</identifier>
+				<identifier>	MP_AM161_Anchor_top	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.3431 5.6850 1.0000	</row3>
+					<row0>	0.7641 0.0248 0.4710 0.0000	</row0>
+					<row1>	0.3835 0.4895 -0.6479 0.0000	</row1>
+					<row2>	-0.2746 0.7524 0.4059 0.0000	</row2>
+					<row3>	-0.1858 0.3431 5.6850 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATC2642	</identifier>
+				<identifier>	MP_AM161_Anchor_top_INDEX_1	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.3523 5.6679 1.0000	</row3>
+					<row0>	0.7641 -0.0248 -0.4710 0.0000	</row0>
+					<row1>	-0.3835 0.4895 -0.6479 0.0000	</row1>
+					<row2>	0.2746 0.7524 0.4059 0.0000	</row2>
+					<row3>	0.1858 0.3431 5.6850 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATC2645	</identifier>
+				<identifier>	MP_AM162_Anchor_down	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row0>	0.9409 0.3385 0.0093 0.0000	</row0>
+					<row1>	-0.1452 0.4282 -0.8920 0.0000	</row1>
+					<row2>	-0.3059 0.8379 0.4520 0.0000	</row2>
+					<row3>	-0.1859 0.3523 5.6679 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM162_Anchor_down_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.9409 -0.3385 -0.0093 0.0000	</row0>
+					<row1>	0.1452 0.4282 -0.8920 0.0000	</row1>
+					<row2>	0.3059 0.8379 0.4520 0.0000	</row2>
+					<row3>	0.1859 0.3523 5.6679 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM684_Chain_Fairlead	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0042 0.0000	</row1>
+					<row2>	0.0000 0.0042 -1.0000 0.0000	</row2>
+					<row3>	-0.0861 0.4348 4.8371 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM684_Chain_Fairlead_INDEX_1	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0042 0.0000	</row1>
+					<row2>	0.0000 0.0042 -1.0000 0.0000	</row2>
+					<row3>	0.0861 0.4348 4.8371 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM011_Fire_Fighting_Gear	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.4348 4.8371 1.0000	</row3>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	0.0069 0.4687 5.5342 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM011_Fire_Fighting_Gear_INDEX_1	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	-0.0069 0.4687 5.5342 1.0000	</row3>
 				</transform>
 			</node>
 		</node>
