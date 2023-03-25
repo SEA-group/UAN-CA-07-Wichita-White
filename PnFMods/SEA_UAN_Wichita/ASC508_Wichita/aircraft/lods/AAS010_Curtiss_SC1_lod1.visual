@@ -65,7 +65,7 @@
 			<primitive>	hull_lodShape1.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS_Plane	</identifier>
+					<identifier>	PBSX_Plane	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Wichita/ASC508_Wichita/aircraft/AAS010_Curtiss_SC1.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -79,7 +79,7 @@
 			<primitive>	mod_lodShape1.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS_Plane	</identifier>
+					<identifier>	PBSX_Plane	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Wichita/ASC508_Wichita/aircraft/AAS010_Curtiss_SC1.mfm	</mfm>
 				</material>
 			</primitiveGroup>
